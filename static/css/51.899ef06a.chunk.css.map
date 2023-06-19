@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/51.899ef06a.chunk.css","mappings":"AAAA,kCAEE,YAAa,CACb,qBAAsB,CACtB,QAAS,CAHT,WAIF","sources":["components/RegisterForm/RegisterForm.module.css"],"sourcesContent":[".registerForm {\n  width: 370px;\n  display: flex;\n  flex-direction: column;\n  gap: 10px;\n}\n"],"names":[],"sourceRoot":""}
