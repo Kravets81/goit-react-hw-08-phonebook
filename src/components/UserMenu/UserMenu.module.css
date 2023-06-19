@@ -1,0 +1,11 @@
+.userWrapper {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.userTitle {
+  color: #333333;
+  font-size: 1.5em;
+  font-weight: bold;
+}

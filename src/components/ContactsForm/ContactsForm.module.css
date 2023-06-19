@@ -1,0 +1,39 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.form__label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.formInput {
+  width: 100% !important;
+  height: 56px !important;
+  height: 30px;
+  border-radius: 5px;
+  padding-left: 20px;
+
+  background-color: transparent !important;
+  color: #333333;
+  font-size: 15px;
+}
+
+.react-tel-input:active {
+  border-color: red !important;
+}
+
+.form__button {
+  margin-top: 20px;
+  background-color: transparent;
+  color: #333333;
+
+  font-size: 17px;
+  padding: 11px;
+  border-radius: 5px;
+}

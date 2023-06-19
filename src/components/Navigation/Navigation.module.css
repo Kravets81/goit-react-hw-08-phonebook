@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: #333333;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.activeLink {
+  color: #ec0d0d;
+  transition: color 0.3s ease;
+}
